@@ -1,2 +1,3 @@
 # conflict-exercise
-este es un cambio en la main branch
+
+cambios combinados de ambas ramas
